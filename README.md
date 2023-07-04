@@ -36,3 +36,8 @@ $ yaexec zsh
 
 
 
+Los pasos referentes a 
+```bash
+yarn add prisma
+```
+ A pesar de ser ejecutados no lograron realizar la instalación, considerando lo anterior, continuo con su escritura con objetivio didáctico y en preferencia del avance
